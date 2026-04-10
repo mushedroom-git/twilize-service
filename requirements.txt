@@ -1,3 +1,5 @@
 fastapi>=0.110.0
 uvicorn[standard]>=0.29.0
-twilize>=0.1.0
+twilize>=0.24.0
+tableauhyperapi
+python-multipart
